@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=trafficinc&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&layout=compact">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trafficinc&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&layout=compact">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trafficinc&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
 
